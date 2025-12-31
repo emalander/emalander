@@ -15,8 +15,13 @@
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=emalander&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c)
+<p align="center">
+  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=emalander&show_icons=true&theme=algolia&border_radius=8" alt="General Stats" />
+</p>
 
+<p align="center">
+  <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emalander&count_private=true&theme=algolia&layout=compact&border_radius=8&langs_count=10&hide=hack,swift,kotlin,objective-c" alt="Most Used Languages" />
+</p>
 
 ## Contacto
 
